@@ -9,5 +9,8 @@ return
             direction = "float",
             close_on_exit = true,
             shell = vim.o.shell,
+            float_opt = {
+                border = "curved",
+            }
         },
 }
