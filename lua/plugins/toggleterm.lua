@@ -4,6 +4,7 @@ return
         version = "*",
         opts = {
             open_mapping = [[<c-\>]],
+            shade_filetypes = {},
             hide_numbers = true,
             direction = "float",
             close_on_exit = true,
