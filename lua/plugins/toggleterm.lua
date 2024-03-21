@@ -13,4 +13,7 @@ return
                 border = "curved",
             }
         },
+        config = function(_, opts)
+            require('toggleterm').setup(opts)
+        end
 }

@@ -1,4 +1,4 @@
-return{
+return {
     "folke/twilight.nvim",
     opts = {
 
