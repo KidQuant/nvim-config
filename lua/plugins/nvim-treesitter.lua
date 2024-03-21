@@ -17,6 +17,12 @@ return {
         ensure_installed = {
             'lua',
             'latex',
+            'python',
+            'bash',
+            'markdown',
+            'sql',
+            'cpp',
+            'markdown_inline'
         },
     },
     config = function(_, opts)

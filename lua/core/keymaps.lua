@@ -3,6 +3,9 @@ vim.g.mapleader = " "
 
 local keymap = vim.keymap
 
+-- twilight
+vim.api.nvim_set_keymap("n", "tk", ":blast<enter>", {noremap=false})
+
 -- General keymaps
 keymap.set("i", "jk", "<ESC>") -- exit insert mode with jk 
 keymap.set("i", "ii", "<ESC>") -- exit insert mode with ii
