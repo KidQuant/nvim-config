@@ -120,7 +120,8 @@ return {
         styles = {
             functions = { italic = true },
             commennts = { italic = true },
-            keywords = { italic = true }
+            keywords = { italic = true },
+            loops =  { italic = true}
         },
     },
     config = function(_, opts)
