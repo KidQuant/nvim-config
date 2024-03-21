@@ -111,8 +111,8 @@
 return {
     -- https://github.com/folke/tokyonight.nvim
     'folke/tokyonight.nvim', -- You can replace this with your favorite colorscheme
-    lazy = false,          -- We want the colorscheme to load immediately when starting Neovim
-    priority = 1000,       -- Load the colorscheme before other non-lazy-loaded plugins
+    lazy = false,            -- We want the colorscheme to load immediately when starting Neovim
+    priority = 1000,         -- Load the colorscheme before other non-lazy-loaded plugins
     opts = {
         -- Replace this with your scheme-specific settings or remove to use the defaults
         -- transparent = true,
@@ -121,7 +121,7 @@ return {
             functions = { italic = true },
             commennts = { italic = true },
             keywords = { italic = true },
-            loops =  { italic = true}
+            loops = { italic = true }
         },
     },
     config = function(_, opts)

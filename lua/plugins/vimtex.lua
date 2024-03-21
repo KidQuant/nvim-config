@@ -1,7 +1,7 @@
 -- plugin for vimtex
-return{
+return {
     "lervag/vimtex",
-    ft = {"tex", "cls"},
+    ft = { "tex", "cls" },
     init = function()
         vim.g.vimtex_view_method = 'zathura'
         vim.g.vimtex_view_general_viewer = 'zathura'
