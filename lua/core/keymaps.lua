@@ -53,6 +53,12 @@ keymap.set("n", "<leader>ck", ":diffget 3<CR>") -- get diff from right (remote) 
 keymap.set("n", "<leader>cn", "]c")             -- next diff hunk
 keymap.set("n", "<leader>cp", "[c")             -- previous diff hunk
 
+-- Diagnostics
+keymap.set("n", "<space>e", vim.diagnostic.open_float)
+keymap.set("n", "[d", vim.diagnostic.goto_prev)
+keymap.set("n", "]d", vim.diagnostic.goto_next)
+keymap.set("n", "<space>q", vim.diagnostic.setloclist)
+
 -- Quickfix keymaps
 keymap.set("n", "<leader>qo", ":copen<CR>")  -- open quickfix list
 keymap.set("n", "<leader>qf", ":cfirst<CR>") -- jump to first quickfix list item
