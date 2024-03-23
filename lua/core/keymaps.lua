@@ -37,8 +37,8 @@ keymap.set("n", "<C-l>", "<C-w>l", opts) -- navigate to the window on the right
 -- Resize with arrows
 keymap.set("n", "<C-Up>", ":resize -2<CR>", opts)             -- resizes window up
 keymap.set("n", "<C-Down>", ":resize +<CR>", opts)            -- resizes window down
-keymap.set("n", "<C-Right>", ":vertical resize -2<CR>", opts) -- resizes window left
-keymap.set("n", "<C-Left>", ":vertical resize +2<CR>", opts)  -- resizes widow right
+keymap.set("n", "<C-Left>", ":vertical resize -2<CR>", opts) -- resizes window left
+keymap.set("n", "<C-Right>", ":vertical resize +2<CR>", opts)  -- resizes widow right
 
 -- Tab management
 keymap.set("n", "<leader>to", ":tabnew<CR>")   -- open a new tab
