@@ -46,16 +46,17 @@ return {
         require('mason-tool-installer').setup({
             -- Install these linters, formatters, debuggers automatically
             ensure_installed = {
+                'ruff',
                 'black',
                 'debugpy',
                 'flake8',
                 'isort',
-                'mypy',
-                'pylint',
                 'clangd',
                 'clang-format',
                 'jedi-language-server',
                 'vale',
+                -- 'mypy',
+                -- 'pylint',
             },
         })
 
