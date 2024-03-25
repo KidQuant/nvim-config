@@ -10,7 +10,7 @@ return {
             python = {
                 -- Uncomment whichever linters you prefer
                 'ruff',
-                'flake8',
+                -- 'flake8',
                 -- 'mypy',
                 -- 'pylint',
             }
