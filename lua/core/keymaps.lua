@@ -27,12 +27,14 @@ keymap.set("n", "<leader>se", "<C-w>=")     -- make split windows equal width
 keymap.set("n", "<leader>sx", ":close<CR>") -- close split window
 keymap.set("n", "<leader>sj", "<C-w>-")     -- make split window height shorter
 keymap.set("n", "<leader>sk", "<C-w>+")     -- make split windows height taller
-keymap.set("n", "<leader>sl", "<C-w>>5")    -- make split windows width bigger
-keymap.set("n", "<leader>sh", "<C-w><5")    -- make split windows width smaller
+-- keymap.set("n", "<leader>sl", "<C-w>>5")    -- make split windows width bigger
+-- keymap.set("n", "<leader>sh", "<C-w><5")    -- make split windows width smaller
 
 -- Window navigation
 keymap.set("n", "<C-h>", "<C-w>h", opts) -- navigate to the window on the left
 keymap.set("n", "<C-l>", "<C-w>l", opts) -- navigate to the window on the right
+keymap.set("n", "<C-j>", "<C-w>j", opts) -- navigate to the window below
+keymap.set("n", "<C-k>", "<C-w>k", opts) -- navigate to the window above
 
 -- Resize with arrows
 keymap.set("n", "<C-Up>", ":resize -2<CR>", opts)             -- resizes window up
