@@ -117,6 +117,7 @@ return {
         -- Replace this with your scheme-specific settings or remove to use the defaults
         -- transparent = true,
         style = "night", -- other variations "storm, night, moon, day"
+        terminal_colors = false,
         styles = {
             functions = { italic = true },
             commennts = { italic = true },
