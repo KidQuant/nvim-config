@@ -34,12 +34,12 @@ return {
                 'lua_ls',
                 'jsonls',
                 'lemminx',
-                'marksman',
+                -- 'marksman',
                 'quick_lint_js',
                 'yamlls',
                 'pyright',
                 'clangd',
-                'ltex',
+                -- 'ltex',
             },
         })
 
