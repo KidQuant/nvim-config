@@ -9,7 +9,7 @@ vim.api.nvim_set_keymap("n", "tk", ":blast<enter>", { noremap = false })
 
 -- General keymaps
 keymap.set("i", "jk", "<ESC>")                 -- exit insert mode with jk
-keymap.set("i", "ii", "<ESC>")                 -- exit insert mode with ii
+-- keymap.set("i", "ii", "<ESC>")                 -- exit insert mode with ii
 keymap.set("n", "<leader>wq", ":wq<CR>")       -- save and quit
 keymap.set("n", "<leader>qq", ":q!<CR>")       -- quit without saving
 keymap.set("n", "<leader>ww", ":w<CR>")        -- save
