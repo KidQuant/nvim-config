@@ -34,12 +34,10 @@ return {
 				"lua_ls",
 				"jsonls",
 				"lemminx",
-				-- 'marksman',
-				"quick_lint_js",
 				"yamlls",
 				"pyright",
 				"clangd",
-				-- 'ltex',
+				"tsserver",
 			},
 		})
 
@@ -51,12 +49,11 @@ return {
 				"debugpy",
 				"flake8",
 				"isort",
+				"eslint_d",
 				"clangd",
 				"clang-format",
 				"jedi-language-server",
 				"vale",
-				-- 'mypy',
-				-- 'pylint',
 			},
 		})
 
