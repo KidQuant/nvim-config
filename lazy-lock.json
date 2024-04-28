@@ -13,7 +13,7 @@
   },
   "black": {
     "branch": "main",
-    "commit": "ba88fc372eaed34abb33ea02d6860b185388d928"
+    "commit": "0c033f3eb73a9f3a820b5d3bc8214c69a0874e04"
   },
   "cmp-buffer": {
     "branch": "main",
@@ -77,7 +77,7 @@
   },
   "mason-lspconfig.nvim": {
     "branch": "main",
-    "commit": "1a14770dc8c7cb29643870ac79788eec6f7ce1f8"
+    "commit": "273fdde8ac5e51f3a223ba70980e52bbc09d9f6f"
   },
   "mason-tool-installer.nvim": {
     "branch": "main",
@@ -105,7 +105,7 @@
   },
   "nvim-dap-ui": {
     "branch": "master",
-    "commit": "edfa93f60b189e5952c016eee262d0685d838450"
+    "commit": "5934302d63d1ede12c0b22b6f23518bb183fc972"
   },
   "nvim-dap-virtual-text": {
     "branch": "master",
@@ -117,7 +117,7 @@
   },
   "nvim-lspconfig": {
     "branch": "master",
-    "commit": "da338c8d7e33fbb810368a808781f56224b4fea7"
+    "commit": "7133e85c3df14a387da8942c094c7edddcdef309"
   },
   "nvim-navic": {
     "branch": "master",
@@ -125,7 +125,7 @@
   },
   "nvim-nio": {
     "branch": "master",
-    "commit": "5800f585def265d52f1d8848133217c800bcb25d"
+    "commit": "7fa5545299fc7a48d5ec74d27f414b862060095f"
   },
   "nvim-surround": {
     "branch": "main",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "19c6b0c4c9b35962e45b782e2b85a3214d2ac4d5"
+    "commit": "19f69a5b434470723c32311cdc4d8d0e8db76358"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
@@ -145,11 +145,11 @@
   },
   "nvim-web-devicons": {
     "branch": "master",
-    "commit": "beb6367ab8496c9e43f22e0252735fdadae1872d"
+    "commit": "27eac98fd6675d29d0e19d4d0622fd7a3968483a"
   },
   "plenary.nvim": {
     "branch": "master",
-    "commit": "5129a3693c482fcbc5ab99a7706ffc4360b995a0"
+    "commit": "08e301982b9a057110ede7a735dd1b5285eb341f"
   },
   "quickfixdd": {
     "branch": "master",
@@ -201,7 +201,7 @@
   },
   "vimtex": {
     "branch": "master",
-    "commit": "6c01660a99c0cc0906b39094f4a2d086b28fa995"
+    "commit": "cd7cdfb338693f9cd38291c68e119460b90b7596"
   },
   "zen-mode.nvim": {
     "branch": "main",
