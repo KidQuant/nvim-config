@@ -52,7 +52,6 @@ return {
 				"eslint_d",
 				"clangd",
 				"clang-format",
-				"jedi-language-server",
 				"vale",
 			},
 		})
