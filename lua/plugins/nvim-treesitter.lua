@@ -16,7 +16,6 @@ return {
 		auto_install = true, -- automatically install syntax support when entering new file type buffer
 		ensure_installed = {
 			"lua",
-			"latex",
 			"python",
 			"bash",
 			"markdown",
