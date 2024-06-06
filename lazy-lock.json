@@ -89,7 +89,7 @@
   },
   "neodev.nvim": {
     "branch": "main",
-    "commit": "ce9a2e8eaba5649b553529c5498acb43a6c317cd"
+    "commit": "02893eeb9d6e8503817bd52385e111cba9a90500"
   },
   "nvim-autopairs": {
     "branch": "master",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "b7d50e59b1b2990b3ce8761d4cf595f4b71c87e2"
+    "commit": "3a74b5831058d0daf8952a5b8c556c61b30a3f46"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
