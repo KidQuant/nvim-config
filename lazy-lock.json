@@ -61,7 +61,7 @@
   },
   "lazy.nvim": {
     "branch": "main",
-    "commit": "70f2c090d3ffb14f8702d468e05beb240b768881"
+    "commit": "89ddc59d19513c5c19c8f8d2ad8573890bd00eef"
   },
   "lsp-progress.nvim": {
     "branch": "main",
@@ -129,7 +129,7 @@
   },
   "nvim-surround": {
     "branch": "main",
-    "commit": "f1f0699a1d49f28e607ffa4361f1bbe757ac5ebc"
+    "commit": "6a8f0f1e7e6e8facc9ba7c8f217daf84122b7a9b"
   },
   "nvim-tree.lua": {
     "branch": "master",
@@ -145,7 +145,7 @@
   },
   "nvim-web-devicons": {
     "branch": "master",
-    "commit": "b77921fdc44833c994fdb389d658ccbce5490c16"
+    "commit": "b4b302d6ae229f67df7a87ef69fa79473fe788a9"
   },
   "plenary.nvim": {
     "branch": "master",
