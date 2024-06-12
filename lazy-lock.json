@@ -37,7 +37,7 @@
   },
   "conform.nvim": {
     "branch": "master",
-    "commit": "5541c54cf2ab078a537838e1fb9d96ae47f71255"
+    "commit": "07d1298739cd7c616cb683bfd848f6b369f93297"
   },
   "fidget.nvim": {
     "branch": "main",
@@ -45,7 +45,7 @@
   },
   "friendly-snippets": {
     "branch": "main",
-    "commit": "e11b09bf10706bb74e16e4c3d11b2274d62e687f"
+    "commit": "700c4a25caacbb4648c9a27972c2fe203948e0c2"
   },
   "git-blame.nvim": {
     "branch": "master",
@@ -117,7 +117,7 @@
   },
   "nvim-lspconfig": {
     "branch": "master",
-    "commit": "92166b89ab4b3d60f24e58170cac53b7141fd032"
+    "commit": "4d38bece98300e3e5cd24a9aa0d0ebfea4951c16"
   },
   "nvim-navic": {
     "branch": "master",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "9ebc589329083522f9594f408fc2652090b41139"
+    "commit": "9a7ad2ff7a7ea81016aca2fc89c9b2c1a5365421"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
@@ -173,7 +173,7 @@
   },
   "tokyonight.nvim": {
     "branch": "main",
-    "commit": "e4df5bb11d5dd419994c87e81e667847f0389c7e"
+    "commit": "024621763d91bb48f2b486df529c7aaeb8d6d355"
   },
   "twilight.nvim": {
     "branch": "main",
