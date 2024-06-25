@@ -37,7 +37,7 @@
   },
   "conform.nvim": {
     "branch": "master",
-    "commit": "bde3bee1773c96212b6c49f009e05174f932c23a"
+    "commit": "9a06e83527407a7600a2fe4e0d10adf432b6215e"
   },
   "fidget.nvim": {
     "branch": "main",
@@ -117,7 +117,7 @@
   },
   "nvim-lspconfig": {
     "branch": "master",
-    "commit": "5c33bf1f708ac8cb839469e1a03d45987fec305c"
+    "commit": "f43135c38a37c588053ad5e209c7460f43f6340c"
   },
   "nvim-navic": {
     "branch": "master",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "66ae8748fd4e8550c8b17cf115c9739aea1e4067"
+    "commit": "b967bbc27b564001c3d3b8ea93444cf6d0b21d23"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
