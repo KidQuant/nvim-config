@@ -1,7 +1,7 @@
 {
   "LuaSnip": {
     "branch": "master",
-    "commit": "50fcf17db7c75af80e6b6109acfbfb4504768780"
+    "commit": "5de556a3e970346debd43b686deab4ed1f9bf18a"
   },
   "barbecue": {
     "branch": "main",
@@ -13,7 +13,7 @@
   },
   "black": {
     "branch": "main",
-    "commit": "b677a643c5322b6af2dbca1f8f7a4f8c98e732aa"
+    "commit": "b1f7b9f87d51c1335bea9b1415369bab4459092a"
   },
   "cmp-buffer": {
     "branch": "main",
@@ -37,7 +37,7 @@
   },
   "conform.nvim": {
     "branch": "master",
-    "commit": "9a06e83527407a7600a2fe4e0d10adf432b6215e"
+    "commit": "c26dadf8a47a547768d1048a0d698ecec33494ce"
   },
   "fidget.nvim": {
     "branch": "main",
@@ -57,11 +57,11 @@
   },
   "indent-blankline.nvim": {
     "branch": "master",
-    "commit": "d98f537c3492e87b6dc6c2e3f66ac517528f406f"
+    "commit": "65e20ab94a26d0e14acac5049b8641336819dfc7"
   },
   "lazy.nvim": {
     "branch": "main",
-    "commit": "bc620783663ab09d16bff9fdecc07da65b2a1528"
+    "commit": "ec95702ae617308df35f35ad93c469c86d47346f"
   },
   "lsp-progress.nvim": {
     "branch": "main",
@@ -113,11 +113,11 @@
   },
   "nvim-lint": {
     "branch": "master",
-    "commit": "941fa1220a61797a51f3af9ec6b7d74c8c7367ce"
+    "commit": "efc6fc83f0772283e064c53a8f9fb5645bde0bc0"
   },
   "nvim-lspconfig": {
     "branch": "master",
-    "commit": "f43135c38a37c588053ad5e209c7460f43f6340c"
+    "commit": "95b2fc427353e42318c974d10685d500441b821b"
   },
   "nvim-navic": {
     "branch": "master",
@@ -129,15 +129,15 @@
   },
   "nvim-surround": {
     "branch": "main",
-    "commit": "687ea2f33955df0042bf228853a82696265e7e2d"
+    "commit": "ec2dc7671067e0086cdf29c2f5df2dd909d5f71f"
   },
   "nvim-tree.lua": {
     "branch": "master",
-    "commit": "2086e564c4d23fea714e8a6d63b881e551af2f41"
+    "commit": "8b2c5c678be4b49dff6a2df794877000113fd77b"
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "b967bbc27b564001c3d3b8ea93444cf6d0b21d23"
+    "commit": "3e535e826da265748b875b18dbfb361bd1a1701c"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
@@ -173,7 +173,7 @@
   },
   "tokyonight.nvim": {
     "branch": "main",
-    "commit": "81c867c5f638597a82c82094dcb90ed42444dabc"
+    "commit": "30d7be361a7fbf187a881f17e574e9213d5108ea"
   },
   "twilight.nvim": {
     "branch": "main",
@@ -201,7 +201,7 @@
   },
   "vimtex": {
     "branch": "master",
-    "commit": "8ed94566e6fe3f5b163131dc374d224d2d320db7"
+    "commit": "2dc2a5435809c13f6f4aa07964be4ef19a7864f5"
   },
   "zen-mode.nvim": {
     "branch": "main",
