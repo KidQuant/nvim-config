@@ -1,7 +1,7 @@
 {
   "LuaSnip": {
     "branch": "master",
-    "commit": "5de556a3e970346debd43b686deab4ed1f9bf18a"
+    "commit": "ce0a05ab4e2839e1c48d072c5236cce846a387bc"
   },
   "barbecue": {
     "branch": "main",
@@ -61,7 +61,7 @@
   },
   "lazy.nvim": {
     "branch": "main",
-    "commit": "ec95702ae617308df35f35ad93c469c86d47346f"
+    "commit": "1fad61712bd3937dda925775a7736b8efbcbf1a7"
   },
   "lsp-progress.nvim": {
     "branch": "main",
@@ -117,7 +117,7 @@
   },
   "nvim-lspconfig": {
     "branch": "master",
-    "commit": "95b2fc427353e42318c974d10685d500441b821b"
+    "commit": "7edfd6692ba17f8d4fe08d84142781898ab0a672"
   },
   "nvim-navic": {
     "branch": "master",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "3e535e826da265748b875b18dbfb361bd1a1701c"
+    "commit": "7ff0b8d3d21b15eb7231fcbd2acfded8987f5efd"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
