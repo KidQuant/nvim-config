@@ -1,2 +1,3 @@
 lua/plugins/black.lua
 lua/plugins/vim-isort.lua
+lua/plugins/vimtex.lua
