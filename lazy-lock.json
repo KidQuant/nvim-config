@@ -37,7 +37,7 @@
   },
   "conform.nvim": {
     "branch": "master",
-    "commit": "2122fe2ff01e9a542fc358ee9398ce2cbddf345d"
+    "commit": "0f4f299dfea09d2adfd7a1da05149a0844ac8eee"
   },
   "fidget.nvim": {
     "branch": "main",
@@ -57,7 +57,7 @@
   },
   "indent-blankline.nvim": {
     "branch": "master",
-    "commit": "3fe94b8034dd5241cb882bb73847303b58857ecf"
+    "commit": "dddb5d21811c319eb6e51a993d8fb44b193aae3f"
   },
   "lazy.nvim": {
     "branch": "main",
@@ -113,7 +113,7 @@
   },
   "nvim-lint": {
     "branch": "master",
-    "commit": "efc6fc83f0772283e064c53a8f9fb5645bde0bc0"
+    "commit": "a3ef6df8716e280a81f9308dbc212957aa82ebe6"
   },
   "nvim-lspconfig": {
     "branch": "master",
@@ -137,7 +137,7 @@
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "3e0feeb062b29bb7d6d6df1e32ba28111c2bb734"
+    "commit": "a8535b2329a082c7f4e0b11b91b1792770425eaa"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
