@@ -1,4 +1,4 @@
 /lua/plugins/black.lua
 /lua/plugins/vim-isort.lua
 /lua/plugins/vimtex.lua
-lazy-lock.backup.json
+/lazy-lock.backup.json
