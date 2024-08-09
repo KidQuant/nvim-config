@@ -70,7 +70,7 @@ keymap.set("n", "<leader>ql", ":clast<CR>") -- jump to last quickfix list item
 keymap.set("n", "<leader>qc", ":cclose<CR>") -- close quickfix list
 
 -- Vim-maximizer
-keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- toggle maximize tab
+-- keymap.set("n", "<leader>sm", ":MaximizerToggle<CR>") -- toggle maximize tab
 
 -- Nvim-tree
 -- keymap.set("n", "<leader>ee", ":NvimTreeToggle<CR>")   -- toggle file explorer
