@@ -28,9 +28,9 @@ opt.cursorline = true
 opt.termguicolors = true
 opt.background = "dark"
 opt.signcolumn = "yes"
-vim.diagnostic.config {
-    float = { border = "rounded" }, -- add border to diagnostic popups
-}
+vim.diagnostic.config({
+	float = { border = "rounded" }, -- add border to diagnostic popups
+})
 
 -- Backspace
 opt.backspace = "indent,eol,start"
@@ -52,3 +52,6 @@ opt.mouse = ""
 opt.foldlevel = 20
 opt.foldmethod = "expr"
 opt.foldexpr = "nvim_treesitter#foldexpr()" -- Utilize Treesitter folds
+
+-- clipboard
+vim.opt.clipboard:append("unnamedplus")
