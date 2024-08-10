@@ -63,6 +63,10 @@
     "branch": "main",
     "commit": "077102c5bfc578693f12377846d427f49bc50076"
   },
+  "lazygit.nvim": {
+    "branch": "main",
+    "commit": "dc56df433bfbf107fee0139e187eb9750878fa84"
+  },
   "lsp-progress.nvim": {
     "branch": "main",
     "commit": "d5f4d28efe75ce636bfbe271eb45f39689765aab"
@@ -101,7 +105,7 @@
   },
   "nvim-dap": {
     "branch": "master",
-    "commit": "dcc85d12d6e2c18c5fa0f9a304d9f5e767e1401a"
+    "commit": "2b428ff2632e73295e9decbcf1c40d8e26213305"
   },
   "nvim-dap-ui": {
     "branch": "master",
@@ -133,11 +137,11 @@
   },
   "nvim-tree.lua": {
     "branch": "master",
-    "commit": "48d0e82f9434691cc50d970898142a8c084a49d6"
+    "commit": "ad0b95dee55955817af635fa121f6e2486b10583"
   },
   "nvim-treesitter": {
     "branch": "master",
-    "commit": "a8535b2329a082c7f4e0b11b91b1792770425eaa"
+    "commit": "176e4464736c1feca190d77f481ed5972b513516"
   },
   "nvim-treesitter-textobjects": {
     "branch": "master",
