@@ -36,8 +36,8 @@ return {
 				"lemminx",
 				"yamlls",
 				"pyright",
-				"clangd",
 				"tsserver",
+				"clangd",
 			},
 		})
 
@@ -50,7 +50,6 @@ return {
 				"flake8",
 				"isort",
 				"eslint_d",
-				"clangd",
 				"clang-format",
 				"vale",
 			},
