@@ -1,9 +1,8 @@
 -- plugin for vimtex
 return {
     "lervag/vimtex",
-    ft = { "tex", "cls"},
-    init = function ()
-
+    ft = { "tex", "cls" },
+    init = function()
         -- for MacOS
         vim.g['vimtex_view_method'] = 'skim'
         vim.g['vimtex_quickfix_mode'] = 0
