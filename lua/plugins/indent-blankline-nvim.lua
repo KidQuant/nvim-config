@@ -18,6 +18,7 @@ return {
                         python = {
                             "block",
                             "chunk",
+                            "module"
                         },
                     },
                 },
@@ -27,6 +28,9 @@ return {
                         -- 'lua',
                         'terminal',
                         'telescope',
+                        "help",
+                        "dashboard",
+                        "NvimTree",
                     },
                 },
                 -- buftype_exclude = { "terminal", "nofile", 'FTerm', 'alpha' },

@@ -37,7 +37,7 @@ return {
                 "yamlls",
                 "pyright",
                 "clangd",
-                -- "typescript-language-server",
+                -- "tsserver",
             },
         })
 
