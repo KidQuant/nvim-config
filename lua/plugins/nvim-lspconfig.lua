@@ -31,14 +31,14 @@ return {
                 "bashls",
                 "cssls",
                 "html",
-                "lua_ls",
                 "jsonls",
                 "lemminx",
                 "yamlls",
                 "pyright",
                 "clangd",
-                -- "tsserver",
+                "tsserver",
             },
+            automatic_installation = true,
         })
 
         require("mason-tool-installer").setup({
@@ -69,8 +69,8 @@ return {
         require("mason-lspconfig").setup_handlers({
             function(server_name)
                 lspconfig[server_name].setup({
-                    on_attach = lsp_attach,
-                    capabilities = lsp_capabilities,
+                    -- on_attach = lsp_attach,
+                    -- capabilities = lsp_capabilities,
                 })
             end,
         })
