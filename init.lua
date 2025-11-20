@@ -33,20 +33,6 @@ vim.api.nvim_create_autocmd("FileType", {
 	command = "setlocal complete=",
 })
 
--- Soft wrap only for LaTex files
-vim.api.nvim_create_autocmd({ "BufRead", "BufNewFile" }, {
-	callback = function(args)
-		local path = vim.api.nvim_buf_get_name(args.buf)
-		if path:match("/FA595ProjectReport/") and path:match("%.tex$") then
-			local o = vim.opt_local
-			o.wrap = true
-			o.linebreak = true
-			-- o.breakindent = true
-			o.showbreak = "↳ "
-		end
-	end,
-})
-
 vim.cmd([[
   let g:vimtex_view_reverse_search_edit_cmd = 'nvim --headless --noplugin -u NONE +"call cursor(@line,1)" +normal! zz'
 ]])
