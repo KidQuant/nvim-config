@@ -40,3 +40,5 @@ vim.cmd([[
 -- These modules are not loaded by lazy
 require("core.options")
 require("core.keymaps")
+
+vim.g.python3_host_prog = "/opt/miniconda3/bin/python3"
