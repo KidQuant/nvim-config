@@ -41,4 +41,4 @@ vim.cmd([[
 require("core.options")
 require("core.keymaps")
 
-vim.g.python3_host_prog = "/opt/miniconda3/bin/python3"
+vim.g.python3_host_prog = "/usr/bin/python3"
